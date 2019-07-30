@@ -25,6 +25,7 @@ For detailed instructions, check out the blog post on http://reflowster.com/blog
 3. Configure Alexa as an event source under the event source tab in the AWS Lambda Function panel. (AWS Lambda Dashboard) - Skip code upload for now
 4. Configure a Alexa Skill using the contents of the RokuSkill folder, the ARN of your above Lambda Function, and the <a href="https://developer.amazon.com/edw/home.html">Alexa Skills Dashboard</a>.
 4. Zip the .js files in RokuLamba up and upload them as a new AWS Lambda Function using the <a href="https://console.aws.amazon.com/lambda">AWS Lambda Dashboard</a>
+## [rokify](https://aapks.com/apk/remote-cast-for-roku/)
 
 ## Contributors
 * jaknoll
